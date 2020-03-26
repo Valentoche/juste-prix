@@ -1,0 +1,5 @@
+Ordinateur 800
+Voiture 70000
+Voyage 100000
+Maison 200000
+Console 350
